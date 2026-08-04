@@ -1,8 +1,8 @@
 @echo off
 setlocal
 
-set /p INICIO=Primer sorteo:
-set /p FIN=Ultimo sorteo:
+set /p INICIO=Primer sorteo:799
+set /p FIN=Ultimo sorteo:1550
 
 mkdir Kino_JSON
 
